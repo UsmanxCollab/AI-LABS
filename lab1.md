@@ -1,7 +1,5 @@
-# AI-LABS
-# AI-LABS
-BS CS  AI Practical Lab Tasks and Assignments
 
+# AI-LABS
 # AI Lab 1: Introduction to AI & Knowledge-Based Systems
 
 ---
